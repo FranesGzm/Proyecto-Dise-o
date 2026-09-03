@@ -1,15 +1,17 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
-  - Nombre 2 - Rol 2
-  - Nombre 3 - Rol 3
-  - Nombre 4 - Rol 4
+  - Francisca Guzman - Rol 1
+  - Martina Sanchez - Rol 2
+  - vitalia Simon - Rol 3
+
   
-- **ODS Seleccionado:** [Número y nombre]
-- **Problema a resolver:** [Descripción breve]
+- **ODS Seleccionado:** ODS 12: Producción y Consumo Responsables
+- **Problema a resolver:** Basureros colapsados en poco tiempo y el cambio de bolsas constantes durante el día. 
+
 
 ### Descripción del Proyecto
-[Breve descripción de la solución IoT propuesta]
+Dispositivo aplanador para lograr disminuir el volumen del vaso.
+
 
 ### Estado del Proyecto
 - **Versión actual:** v3.0
