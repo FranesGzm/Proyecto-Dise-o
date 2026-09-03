@@ -6,11 +6,10 @@
 
   
 - **ODS Seleccionado:** ODS 12: Producción y Consumo Responsables
-- **Problema a resolver:** Basureros colapsados en poco tiempo y el cambio de bolsas plásticas constantes durante el día. 
-
+- **Problema a resolver:** Los vasos de café desechables de cartón pueden ocupar hasta un más de un 60% de volumen en aire por su forma cónica y hueca, lo que hace que  los basureros se llenen fácilmente en la universidad en horarios punta y forzando retiros constantes de bolsas plásticas que tienen más aire que residuos. 
 
 ### Descripción del Proyecto
-Dispositivo aplanador para lograr disminuir el volumen del vasos de café en el punto de desecho y optimizar más la capacidad de los basureros.  
+Un aparato manual que se pone junto a los basureros, con el propósito de aplastar los vasos de café para que queden planos para poder botarlos, así el basurero se llena realmente de residuos, menos aire, y se usan menos bolsas del plastico.  
 ![Uploading image.png…]()
 
 
