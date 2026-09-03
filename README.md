@@ -2,11 +2,11 @@
 - **Integrantes:**
   - Francisca Guzman - Rol 1
   - Martina Sanchez - Rol 2
-  - vitalia Simon - Rol 3
+  - Vitalia Simon - Rol 3
 
   
 - **ODS Seleccionado:** ODS 12: Producción y Consumo Responsables
-- **Problema a resolver:** Basureros colapsados en poco tiempo y el cambio de bolsas constantes durante el día. 
+- **Problema a resolver:** Basureros colapsados en poco tiempo y el cambio de bolsas plásticas constantes durante el día. 
 
 
 ### Descripción del Proyecto
