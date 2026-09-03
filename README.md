@@ -10,7 +10,7 @@
 
 
 ### Descripción del Proyecto
-Dispositivo aplanador para lograr disminuir el volumen del vasos de café para reducir el volumen usado en el punto de desecho y optimizar más su capacidad en los diferentes contendores. 
+Dispositivo aplanador para lograr disminuir el volumen del vasos de café en el punto de desecho y optimizar más la capacidad de los basureros.  
 ![Uploading image.png…]()
 
 
